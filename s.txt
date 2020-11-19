@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html<
+
+	<head>
+		<title>Marcus side</title
+	</head>
+
+
+<body> bgcolor"blue">
+	<p>Dette er min første web side!!! </p>
+</body>
+
+</html>
